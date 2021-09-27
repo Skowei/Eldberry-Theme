@@ -1,0 +1,21 @@
+{
+    "name": "eldberry",
+    "displayName": "Eldberry",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Eldberry",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Eldberry-color-theme.json"
+            }
+        ]
+    }
+}
