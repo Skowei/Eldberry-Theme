@@ -1,13 +1,15 @@
-# README
-## This is the README for your extension "eldberry"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Eldberry
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+A high-contrast private dark theme optimized for daily coding and better readability.
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## Features
+
+- Deep dark background tones to reduce eye strain.
+- Enhanced contrast for syntax highlighting elements.
+- Minimalist workbench interface design.
+
+## Installation
+
+You can find and install this theme directly via the Visual Studio Code Extensions Marketplace by searching for **Eldberry**.
 
 **Enjoy!**

@@ -1,8 +1,9 @@
 {
     "name": "eldberry",
     "displayName": "Eldberry",
-    "description": "",
+    "description": "A high-contrast private dark theme.",
     "version": "0.0.1",
+    "publisher": "Skowei",
     "engines": {
         "vscode": "^1.60.0"
     },
@@ -17,5 +18,9 @@
                 "path": "./themes/Eldberry-color-theme.json"
             }
         ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Skowei/Eldberry-Theme"
     }
 }

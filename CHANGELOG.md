@@ -2,8 +2,7 @@
 
 All notable changes to the "eldberry" extension will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
 ## [Unreleased]
 
-- Initial release
+- Initial release of Eldberry Theme.
+- A dark theme with enhanced contrast for better readability.
