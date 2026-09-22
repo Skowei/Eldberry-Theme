@@ -1,10 +1,11 @@
 {
-    "name": "eldberry",
-    "displayName": "Eldberry",
+    "name": "eldberry-theme",
+    "displayName": "Eldberry Theme",
     "description": "A high-contrast private dark theme.",
     "version": "0.0.1",
     "publisher": "Skowei",
     "license": "MIT",
+    "icon": "icon.png",
     "engines": {
         "vscode": "^1.60.0"
     },
