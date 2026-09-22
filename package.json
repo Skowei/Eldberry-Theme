@@ -4,6 +4,7 @@
     "description": "A high-contrast private dark theme.",
     "version": "0.0.1",
     "publisher": "Skowei",
+    "license": "MIT",
     "engines": {
         "vscode": "^1.60.0"
     },
